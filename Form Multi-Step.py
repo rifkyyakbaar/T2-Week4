@@ -1,4 +1,3 @@
-# Nama  : Rifky Akbar Utomo Putra
 # NIM   : F1D02310149
 # Kelas : D
 
